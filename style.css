@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+/*
+Theme Name: Real Estate agencies 
+Author: 
+Daria Sidorko,
+MOISEENKO, VICTORIA
+Author URI: http://www./
+Description: Theme for Real Easate ....
+Version: 1.0
+*/
+
+body{
+	background: #fff;
+}
+.navbar-inverse{
+	background: #fff;
+	border-color: #fff;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus{
+	color: #a1915c;
+}
+.highlight-info{
+	background: rgba(0, 0, 0, 0);
+}
+.highlight-info .overlay{
+	background: rgba(161, 144, 100, 0.5);
+}
+.topbar{
+	background: none;
+}
+p.address{
+	
+}
+p.details{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: right;
+	clear: both;
+}
