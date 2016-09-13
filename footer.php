@@ -301,6 +301,7 @@ Thanks for meeting him, Sean.
     </div>
 		  <div class="modal-body">
 			  <div class="row">
+				  <div class="col-md-12"><h5>1205 Harbor Ave SW, Seattle, WA 98116</h5></div>
 				  <div class="col-md-7 col-xs-6 left"><p class="price">$1,699,000</p></div>
 				  <div class="col-md-5 col-xs-6 right">
 				  <div class="col-md-4 col-xs-4"><p class="home-details">
@@ -313,7 +314,7 @@ Thanks for meeting him, Sean.
 			  </div>
 <p class="body-description">Almost completed! Welcome home to a truly unique and remarkable sanctuary. True luxury you deserve - Private elevator, private 2-car garage, roof top patio and additional terrace with views of Elliot Bay, the Cascades, and entire Seattle skyline with stadiums. Brilliantly designed floor plans with energy efficient materials - solid wood framed windows, hydronic radiant heating, hand carved hardwood, polished concrete and Fisher & Paykel's DCS appliances. 3-minute walk to water taxi, shops, and restaurants.</p>
 <div class="zillow-button">
-    <p>For more detaile, please, check <a href="http://www.zillow.com/homedetails/1205-Harbor-Ave-SW-Seattle-WA-98116/49123979_zpid/" target="_blank"><img class="link_zillow" src="<?php bloginfo('template_directory'); ?>/images/zillow_logo._1.png" alt="img01"/></a></p> 
+    <p>For more detaile, please, check <a href="http://www.zillow.com/homedetails/1205-Harbor-Ave-SW-Seattle-WA-98116/49123979_zpid/" target="_blank"><img class="link_zillow link_zillow_popup" src="<?php bloginfo('template_directory'); ?>/images/zillow_logo._1.png" alt="img01"/></a></p> 
 </div>
       <div class="text-center">
         <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
@@ -422,25 +423,20 @@ Thanks for meeting him, Sean.
 </div>
 		<div class="modal-body">
 			 <div class="row">
-				  <div class="col-md-7 col-xs-6 left"><p class="price">$675,000</p></div>
+				 <div class="col-md-12"><h5>1201 Harbor Ave SW, Seattle, WA 98116</h5></div>
+				  <div class="col-md-7 col-xs-6 left"><p class="price">$974,900</p></div>
 				  <div class="col-md-5 col-xs-6 right">
 				  <div class="col-md-4 col-xs-4"><p class="home-details">2<br>beds</p></div>
-		  <div class="col-md-4 col-xs-4"><p class="home-details">2<br>bath</p></div>
-		<div class="col-md-4 col-xs-4"><p class="home-details">1,833<br>sqfs</p></div>
+		  <div class="col-md-4 col-xs-4"><p class="home-details">3<br>bath</p></div>
+		<div class="col-md-4 col-xs-4"><p class="home-details">1,561<br>sqfs</p></div>
 </div>
 			  </div>
-<p class="body-description">Price Reduced 8/11!!!Situated well above the street but easy and flat alley access to through the home's oversized 2.5 car garage! Welcome home to an oasis nestled in lush, clean landscaping and many water features well above the street. 84-walk score with an oversized 2.5-car garage with easy and flat alley access. If you get tired of relaxing in the vast outside living spaces then inside you have 3-levels of living space with refinished original hardwoods, oversized windows, and skylights! 1yr new gas furnace, copper pipes throughout, 1-block from Madrona Farmer's Market, 6-blks from Madrona's strip, 7 from Madison shops. Free full house inspection and free sewer scope and report available! Everyroom has a story with unique finishes: Mahogany and leaded glass doors, original 1931 Oak floors, Italian tiled kitchen floors, stained and burnt pine walls in finished basement, skylights leading to upstairs bedrooms and bathroom, and actual submarine window in bed. Oversized patios in both front and rear, outdoor TV/fire pit area, Koi pond, lawn, and oversized 2.5 car garage.
-Q&A (Questions I've been getting):
-1. How are the water pipes? All newer copper piping throughout!
-2. Is there a garage? Yes, a very large 2-car garage with large workshop area!....inside Seattle!
-3. How's the electrical? Please ask us or your broker for a FREE copy of the inspection. I'd say perfect, but I'll let you read how perfect it is in the whole house report!
-4. How are the sewer lines? Also a free sewer scope/report we are going to make available via your broker, or us if you don't have one. They look great!
-5. How is the home heated? ~1year new gas furnace for central and efficient heating! Also another gas fireplace in main floor living.
-6. Is the owner an artist? Yes, and a brilliant one!
-Any other questions? Just shoot a message and ask!</p>
+<p class="body-description">Grand Opening this weekend! Or make an appointment to visit any time, any day! Just completed: Welcome home to incredible views from every floor of this 1561sf 3-level townhome with over 250sf of additional private outdoor living spaces and an attached garage. Luxury finishes and features throughout with amazing views and energy efficiency throughout. You won?t find another townhome like this! 15-minute water taxi ride to DT, <10-min walk to 3 parks and Salty?s; 15-minute walk to main Alki strip. Only 4-homes, all with very unique floor plans and views.</p>
 <div class="zillow-button">
-    <p>For more detaile, please, check <a href="http://www.zillow.com/homedetails/1521-Martin-Luther-King-Jr-Way-Seattle-WA-98122/49146861_zpid/" target="_blank"><img class="link_zillow" src="<?php bloginfo('template_directory'); ?>/images/zillow_logo._1.png" alt="img01"/></a></p> 
+    <p>For more detaile, please, check <a href="http://www.zillow.com/homedetails/1201-Harbor-Ave-SW-Seattle-WA-98116/2121277824_zpid/" target="_blank"><img class="link_zillow link_zillow_popup" src="<?php bloginfo('template_directory'); ?>/images/zillow_logo._1.png" alt="img01"/></a></p> 
 </div>
+<div class="embed-responsive-item"><iframe width="100%" height="480" src="https://my.matterport.com/show/?m=KKNvsDJqoKu" frameborder="0" allowfullscreen></iframe>
+			</div>
       <div class="text-center">
         <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
       </div>
@@ -449,18 +445,6 @@ Any other questions? Just shoot a message and ask!</p>
   </div>
 </div>  
 		  
-		  
-		  
-		  
-		  
-		  
-		  
-
-
-
-
-
-
 <!-- Listing#3 -->
 <div id="normalModal5" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
@@ -567,6 +551,7 @@ Any other questions? Just shoot a message and ask!</p>
 </div>
 		<div class="modal-body">
 			 <div class="row">
+				 <div class="col-md-12"><h5>1521 Martin Luther King Jr Way, Seattle, WA 98122</h5></div>
 				  <div class="col-md-7 col-xs-6 left"><p class="price">$675,000</p></div>
 				  <div class="col-md-5 col-xs-6 right">
 				  <div class="col-md-4 col-xs-4"><p class="home-details">2<br>beds</p></div>
@@ -584,7 +569,7 @@ Q&A (Questions I've been getting):
 6. Is the owner an artist? Yes, and a brilliant one!
 Any other questions? Just shoot a message and ask!</p>
 <div class="zillow-button">
-    <p>For more detaile, please, check <a href="http://www.zillow.com/homedetails/1521-Martin-Luther-King-Jr-Way-Seattle-WA-98122/49146861_zpid/" target="_blank"><img class="link_zillow" src="<?php bloginfo('template_directory'); ?>/images/zillow_logo._1.png" alt="img01"/></a></p> 
+    <p>For more detaile, please, check <a href="http://www.zillow.com/homedetails/1521-Martin-Luther-King-Jr-Way-Seattle-WA-98122/49146861_zpid/" target="_blank"><img class="link_zillow link_zillow_popup" src="<?php bloginfo('template_directory'); ?>/images/zillow_logo._1.png" alt="img01"/></a></p> 
 </div>
       <div class="text-center">
         <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
@@ -685,9 +670,6 @@ Any other questions? Just shoot a message and ask!</p>
 		  <div class="item">
           <img src="<?php bloginfo('template_directory'); ?>/images/houses/house-4.23.jpg" alt="banner">
         </div>
-		  <div class="item">
-          <img src="<?php bloginfo('template_directory'); ?>/images/houses/house-4.24.jpg" alt="banner">
-        </div>
       </div>
 
   <!-- Controls -->
@@ -700,6 +682,7 @@ Any other questions? Just shoot a message and ask!</p>
 </div>
 		<div class="modal-body">
 			 <div class="row">
+			<div class="col-md-12"><h5>20309 90th Pl S, Kent, WA 98031</h5></div>
 				  <div class="col-md-7 col-xs-6 left"><p class="price">$447,977</p></div>
 				  <div class="col-md-5 col-xs-6 right">
 				  <div class="col-md-4 col-xs-4"><p class="home-details">5<br>beds</p></div>
@@ -709,7 +692,7 @@ Any other questions? Just shoot a message and ask!</p>
 			  </div>        
 <p class="body-description">Welcome home to a bright and grand feeling 2952sf, 3-level home with a view and the largest floor plan in the neighborhood! This home has it all with over 20' vaulted ceilings, high ceilings throughout, hardwood, high end appliances, bedrooms with no adjacent walls. Lower level has additional large rec room, bedroom, full bath, and patio access. Super easy access to everywhere: 4min to WA-167, 8min to I-405, 10min to I-5, 12min to SeaTac & Southcenter Mall, 14min to Seattle. Free inspection report!</p>
 <div class="zillow-button">
-    <p>For more detaile, please, check <a href="http://www.zillow.com/homedetails/20309-90th-Pl-S-Kent-WA-98031/108795259_zpid/" target="_blank"><img class="link_zillow" src="<?php bloginfo('template_directory'); ?>/images/zillow_logo._1.png" alt="img01"/></a></p> 
+    <p>For more detaile, please, check <a href="http://www.zillow.com/homedetails/20309-90th-Pl-S-Kent-WA-98031/108795259_zpid/" target="_blank"><img class="link_zillow link_zillow_popup" src="<?php bloginfo('template_directory'); ?>/images/zillow_logo._1.png" alt="img01"/></a></p> 
 </div>	 
       <div class="text-center">
         <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
@@ -765,6 +748,9 @@ If you would like more information about Belltown condos for sale or any other n
 <!--<div class="text-center">
 <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> Contact Us</button>
 </div> -->
+	<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
 </div>
 <div class="ballard">
   <h3 class="text-center">Ballard Neighborhood</h3>
@@ -774,6 +760,9 @@ If you would like more information about Belltown condos for sale or any other n
 There are many amenities and attractions within walking distance from the homes for sale in Ballard. For parks and recreation, there’s Sunset Hills Park, Golden Gardens Park, Ballard Commons Park, and Ballard Corners Park. Residents can enjoy park features like hike and bike trails, playgrounds, off-leash dog areas, boat launches, volleyball courts and more. Other points of interest include the <a class="links" href="http://kingcounty.gov/depts/transportation/metro/travel-options/bus.aspx" target="_blank">Carl S. English Jr. Botanical Garden</a> and the Nordic Heritage Museum. In addition, residents of Ballard real estate can enjoy the wonderful farmers market on Sundays. <br><br>
 Ballard homes for sale have the added benefit of being near many shops, restaurants and art spaces. There’s unique stores like Monster Art and Clothing, Ballard Home Comforts, <a class="links" href="http://www.venueballard.com/" target="_blank">Venue</a>, Blackbird Apothecary, Clover and so much more. Enjoy a bite to eat at yummy spots such as Bastille Cafe & Bar, Ray’s Boathouse, Golden Beetle, The Monkey Bridge, Shiku Sushi and Ballard Loft. There’s something for everyone in Ballard. <br><br>
 Homes for sale in Ballard are in high demand due to their appealing central location and close proximity to a wide array of things to see and do. Ballard real estate offers a diverse and vibrant lifestyle. PLEASE CONTACT US</p>
+	<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
 </div>
 <div class="beacon_hill">
 	<h3 class="text-center">Beacon Hill Neighborhood</h3>
@@ -784,6 +773,9 @@ Beacon Hill homes for sale can offer views of downtown, the Industrial District,
 Beacon Hill is known for its plethora of fine foods and restaurants. Some favorite spots close by Beacon Hill homes for sale are Delite Bakery, The Station, Geraldine’s Counter Restaurant, The Cajun Crawfish, El Quetzal, Bar del Corso and so much more. There’s also the <a class="links" href="http://www.beaconfoodforest.org" target="_blank">Beacon Food Forest </a>, which is an edible food forest garden intended to encourage communal gatherings and sustainable gardening. <br><br>
 Beacon Hill homes for sale are fairly affordable for Seattle. Home prices range from $165,000 to $819,950. Whether you’re looking for a single-family home or a condo, there are numerous options when it comes to Beacon Hill real estate. Many of the homes come with hardwood or tile floors, double pane windows, stainless steel appliances, custom cabinets, and fenced back yards among other features.<br><br>
 Beacon Hill is a lively and diverse place to live. For more information on living in Beacon Hill real estate, contact area expert </p> 
+	<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
 </div>
 
 <div class="capitol_hill">
@@ -795,6 +787,9 @@ Residents won’t have to go far for entertainment. There is much to do within c
 Plenty of shopping, dining and entertainment surrounds Capitol Hill homes for sale. It is a very walkable neighborhood and many amenities are just a short walk away. There’s notable restaurants like <a class="links" href="http://www.sitkaandspruce.com/" target="_blank">Sitka & Spruce</a> and <a class="links" href="http://terraplata.com/" target="_blank">Terra Plata.</a> There’s a variety of unique boutiques such as <a class="links" href="https://totokaelo.com/" target="_blank">Totokaelo</a>, Le Frock and <a class="links" href="http://www.veridisclothier.com/" target="_blank">Veridis Clothier.</a>In addition, Capitol Hill is arguably the most renowned among Seattle real estate for its arts and culture. It is known as one of the birthplaces for the Grunge movement and is the center of Seattle’s independent music community. It also hosts an annual three day music festival called the Capitol Hill Block Party. You won’t be bored when living in Capitol Hill.<br><br>
 There is a variety of homes for sale in Capitol Hill Seattle. Property choices range from condominiums to Victorian mansions. Many Capitol Hill homes for sale have views of Lake Union or downtown Queen Anne. Architecture ranges from modern to historic brick condos. Single family homes include both small craftsmen and sprawling mansions from before the turn of the century. Capitol Hill homes for sale are also located in some of the wealthiest districts of Seattle real estate, including “Millionaire’s Row” along 14th Avenue E. south of Volunteer Park and the Harvard-Belmont Landmark District. There are also many quaint-looking homes along tree-lined streets. Home price ranges from $169,950 to $5,950,000. Home size ranges from 309 square feet to 9,180 square feet.<br><br>
 Capitol Hill is a hip urban place to live. It has so much to offer homebuyers. If you would like more information on homes for sale in Capitol Hill Seattle, please contact us</p> 
+	<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
 </div>
 
 <div class="central_district">
@@ -814,7 +809,10 @@ You’ll also be happy to find an array of dining and shopping choices surroundi
 Central District Seattle homes for sale do not disappoint. There is a variety of living styles from such as classic-style homes, craftsman-style homes, as well as small bungalows, condos and townhomes. Home prices range from about $199,000 up to $3,400,000. Home sizes range anywhere from 468 square feet to 5,650 square feet. The floor plans have on average about 1 bedroom, 2 bedroom or 3 bedroom options but can go up to 6 bedroom layouts.<br><br>
 
 If you would like more information on buying or selling Central District Seattle homes for sale please contact us </p> 
-                    </div>
+	<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
+</div>
 <div class="green_lake">
 <h3 class="text-center">Green Lake Neighborhood</h3>
 <p>Green Lake is one of the most desirable neighborhoods in Seattle. This urban village style neighborhood has so much to offer, with shopping, restaurants, and other wonderful attractions. Green Lake homes for sale are popular with commuters due to the close proximity to downtown and the easy access to community transit. Residents of Green Lake real estate can easily commute downtown in ten to fifteen minutes and have an easy network of transit for commuting elsewhere in the greater Seattle area. This is a very convenient and active Seattle neighborhood.</p>
@@ -830,7 +828,10 @@ Those living in Green Lake real estate have many yummy restaurants, eateries and
 Green Lake homes for sale are mostly older single-family homes, including Tudors, colonials, and bungalows with wraparound porches. Many homes have gorgeous lakefront views. There are townhomes and condos to choose from as well. Green Lake real estate comes in a wide range of prices with lakefront homes being more expensive. Home prices range from $186,000 to $1,799,000. Home size ranges from about 500 square feet to about 4,000 square feet.<br><br>
 
 With the ample opportunities for outdoor recreation, nearness to downtown, and variety of shopping and dining, it’s no wonder Green Lake is such a wonderful place to call home. If you would like more information on Green Lake homes for sale, please contact us </p> 
-                    </div>
+	<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
+</div>
 <div class="east_lake">
  <h3 class="text-center">East Lake Neighborhood</h3>
  <p>This is a quaint community on the east side of Lake Union in north Seattle. Eastlake homes for sale are available in styles ranging from modest size homes to grandiose homes with small town charm. The neighborhood has grown a tremendous amount with newly developed condos and apartments. There is a variety of architectural styles including urban contemporary, turn-of-the-century, floating homes, old brick and timber and modern townhomes. Eastlake Seattle real estate offers a eclectic, vibrant lifestyle.</p>
@@ -844,7 +845,10 @@ Residents can enjoy some great entertainment at the many local spots near Eastla
 Residents also have quick access to the I-5, 520 and the I-90 for easy commuting. The University of Washington is also in close proximity to Eastlake Seattle real estate. There are also several community events that occur near Eastlake Seattle homes for sale. The Eastlake Shake Fair features live music, local vendors and the Eastlake Shake Pet Parade. There are also movies in the park and concerts.<br><br>
 
 With the ample opportunities for outdoor recreation, nearness to downtown, and variety of shopping and dining, it’s no wonder Green Lake is such a wonderful place to call home. If you would like more information on Green Lake homes for sale, please contact us </p> 
-                    </div>
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
+</div>
 
 <div class="queen_anne">
 <h3 class="text-center">Queen Ann Neighborhood</h3>
@@ -859,7 +863,10 @@ Queen Anne Seattle homes for sale are near five public schools as well as privat
 This is a wonderful place to live with something for everyone. Queen Anne real estate ranges in price from about $185,000 up to $7,500,000. Home size ranges from about 674 square feet to well over 7,000 square feet. The assortment of floor plans is amazing.<br><br>
 
 For a viewing of Queen Anne homes for sale, please contact us </p> 
-                    </div>
+	<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
+</div>
 <div class="south_lake_union">
 <h3 class="text-center">South Lake Union Neighborhood</h3>
 <p>One of the most up and coming places to live is South Lake Union Seattle real estate. Evidently name due to its location on the south end of Lake Union, the community boasts a variety living styles as well as a vibrant, growing economy. Brand new lofts, restaurants, jobs and a new light rail system have made South Lake Union the place to be. In fact, Seattle Met Magazine has named the area “Where You’ll Want to be in 2016.”</p>
@@ -875,7 +882,10 @@ The Center for Wooden Boats allows residents to rent rowboats, kayaks or sailboa
 With new and old, South Lake Union homes for sale come in a variety of architectural styles. Buildings have brick and timber as well as modern industrial design. Home price ranges from about $400,000 to well over $1,000,000. Home size ranges from about 747 square feet up to 2,237 square feet. There is constant growth in this neighborhoods such as mobility plans and on-street parking as well as sustainability and transportation. South Lake Union is definitely the place to move to.<br><br>
 
 If you would like more information about South Lake Union Seattle real estate, please contact us </p> 
-                    </div>
+	<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
+</div>
 <div class="west_lake">
 <h3 class="text-center">West Lake Union Neighborhood</h3>
 <p>This is a small, narrow community in north Seattle. Westlake homes for sale are located on the west side of Lake Union. The community is comprised of just a few blocks between the shoreline and Aurora Avenue N. West of Westlake is the Seattle neighborhood Queen Anne. South Lake Union is south and Fremont is the northern border. The main streets in Westlake real estate are Dexter and Westlake Avenues N.”</p>
@@ -888,6 +898,9 @@ It’s very easy to get to downtown via Fremont, Ballard or Wallingford either b
 
 This is a great place for professionals and singles as well as retirees. It’s just a short bus trip to Pike Place Market and the Seattle Center. There are plenty of waterfront seafood restaurants such as McCormick and Schmick’s Seafood. There is also a Jillian’s Pool hall, China Harbor Restaurant and Outback Steakhouse. If you love the water and are looking for a lovely place to live in the Seattle area, Westlake homes for sale are for you.<br><br>
 </p> 
+	<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
 </div>
                     <!--
                     <button class="btn1">Hide</button>
@@ -905,15 +918,17 @@ This is a great place for professionals and singles as well as retirees. It’s 
         </div>
     </div>
     
- <div class="block_mobile container">
- <ul class="nav popup_side_menu  text-center">
-                        
- <li><a href="#" data-toggle="collapse" data-target="#belletown">Belletown</a>
-<div id="belletown" class="collapse">
-<h3 class="text-center">Belltown Neighborhood</h3>
-<p>Situated in the north end of downtown Seattle, the neighborhood of Belltown is a vibrant community of condos, townhomes and lofts with ample entertainment and things to do. Belltown condos for sale are perfect for young professionals and retirees. There is a mixture of people, making Belltown eclectic and exciting. Because the area is a densely populated section of Seattle, you’ll find an array of restaurants, boutiques, art galleries and nightclubs all in walking distance from Belltown real estate.</p>
-<h4 class="text-center">Learn More About Belltown Condos for Sale and Seattle Lifestyle</h4>
-<p>Belltown Seattle condos for sale are bordered by Denny Way to the north, Elliot Bay to the southwest and 5th Avenue to the northeast. Belltown is located on the city’s waterfront with gorgeous city views, Olympic Mountain views and Puget Sound views. There are both low-rise and high-rise condos available equipped with world-class amenities. <br><br>
+  <div class="block_mobile container">
+                <ul class="nav popup_side_menu  text-center">  
+                    <h3 class="text-center header">Seattle Neighborhoods</h3>
+                    <li>
+                        <span class="btn btn-primary-mobile btn-primary-mobile-first-of-type" href="#" data-toggle="collapse" data-target="#belletown">Belletown<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
+                        <div id="belletown" class="collapse">
+                        <h3 class="text-center header">Belltown Neighborhood</h3>
+                        <p>Situated in the north end of downtown Seattle, the neighborhood of Belltown is a vibrant community of condos, townhomes and lofts with ample entertainment and things to do. Belltown condos for sale are perfect for young professionals and retirees. There is a mixture of people, making Belltown eclectic and exciting. Because the area is a densely populated section of Seattle, you’ll find an array of restaurants, boutiques, art galleries and nightclubs all in walking distance from Belltown real estate.</p>
+                        <h4 class="text-center header">Learn More About Belltown Condos for Sale and Seattle Lifestyle</h4>
+                        <p>Belltown Seattle condos for sale are bordered by Denny Way to the north, Elliot Bay to the southwest and 5th Avenue to the northeast. Belltown is located on the city’s waterfront with gorgeous city views, Olympic Mountain views and Puget Sound views. There are both low-rise and high-rise condos available equipped with world-class amenities. <br><br>
 
 Some of the newer built condos for sale in Belltown include Gallery Lofts, Escala, Mosler Lofts and Trio. Other upscale buildings include Arbor Place, Bellora, Belltown Court, Ellington, Royal Crest, Parc Belltown, Harbour Heights, Grandview, Market Court, Seattle Heights, Klee, Montreux and Alexandria. In 2007, Belltown was ranked as one of the Best Neighborhoods to Retire by Money Magazine.<br><br>
 
@@ -926,48 +941,58 @@ It is very easy to get around Belltown. There are free bus lines on the <a class
 There are many attributes that make Belltown Seattle real estate a great investment. Belltown condos for sale range in price from about $249,500 up to $820,000. Floor plans are available in one bedroom or 2 bed room options. Condo sizes range from about 550 square feet to 1,577 square feet.<br><br>
 
 If you would like more information about Belltown condos for sale or any other neighborhoods in Seattle WA real estate, PLEASE CONTACT US</p>
-<!--<div class="text-center">
-<button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> Contact Us</button>
-</div> -->
-</div>
-</li>
-<li><a href="#" data-toggle="collapse" data-target="#ballard">Ballard</a>
-<div id="ballard" class="collapse" >
-  <h3 class="text-center">Ballard Neighborhood</h3>
-<p>Ballard is one of the largest and hippest neighborhoods in Seattle. Homes for sale in Ballard are found northwest of downtown Seattle and are surrounded by water with the lovely Puget Sound to the west and Salmon Bay/Ship Canal to the south. The neighborhoods that surround Ballard are Broadview to the north, with Greenwood, Fremont and Phinney Ridge to the east. Magnolia lies to the south. Ballard real estate offers a central location, making it ideal for commuters or those who enjoy being in the middle of it all.</p>
-<h4 class="text-center">A Closer Look at the Homes for Sale in Ballard</h4>
- <p>Ballard real estate is a unique blend of quiet residential neighborhoods and bustling areas with a high density of condos and townhomes. Ballard homes for sale suit a variety of lifestyles. There is a great mix of architectural styles, including Dutch Colonial, Tudors, Cape Cod, craftsman, ramblers, bungalows, contemporary new construction and more. Home prices range from $199,950 to $2,095,000. Home sizes range from approximately 500 square feet to over 4,000 square feet. <br><br>
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
+                    </div>
+                </li>
+                
+                <li>
+                    <span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#ballard">Ballard<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i> </span>
+                    <div id="ballard" class="collapse" >
+                        <h3 class="text-center header">Ballard Neighborhood</h3>
+                        <p>Ballard is one of the largest and hippest neighborhoods in Seattle. Homes for sale in Ballard are found northwest of downtown Seattle and are surrounded by water with the lovely Puget Sound to the west and Salmon Bay/Ship Canal to the south. The neighborhoods that surround Ballard are Broadview to the north, with Greenwood, Fremont and Phinney Ridge to the east. Magnolia lies to the south. Ballard real estate offers a central location, making it ideal for commuters or those who enjoy being in the middle of it all.</p>
+                        <h4 class="text-center header">A Closer Look at the Homes for Sale in Ballard</h4>
+                        <p>Ballard real estate is a unique blend of quiet residential neighborhoods and bustling areas with a high density of condos and townhomes. Ballard homes for sale suit a variety of lifestyles. There is a great mix of architectural styles, including Dutch Colonial, Tudors, Cape Cod, craftsman, ramblers, bungalows, contemporary new construction and more. Home prices range from $199,950 to $2,095,000. Home sizes range from approximately 500 square feet to over 4,000 square feet. <br><br>
 
 There are many amenities and attractions within walking distance from the homes for sale in Ballard. For parks and recreation, there’s Sunset Hills Park, Golden Gardens Park, Ballard Commons Park, and Ballard Corners Park. Residents can enjoy park features like hike and bike trails, playgrounds, off-leash dog areas, boat launches, volleyball courts and more. Other points of interest include the <a class="links" href="http://kingcounty.gov/depts/transportation/metro/travel-options/bus.aspx" target="_blank">Carl S. English Jr. Botanical Garden</a> and the Nordic Heritage Museum. In addition, residents of Ballard real estate can enjoy the wonderful farmers market on Sundays. <br><br>
 
 Ballard homes for sale have the added benefit of being near many shops, restaurants and art spaces. There’s unique stores like Monster Art and Clothing, Ballard Home Comforts, <a class="links" href="http://www.venueballard.com/" target="_blank">Venue</a>, Blackbird Apothecary, Clover and so much more. Enjoy a bite to eat at yummy spots such as Bastille Cafe & Bar, Ray’s Boathouse, Golden Beetle, The Monkey Bridge, Shiku Sushi and Ballard Loft. There’s something for everyone in Ballard. <br><br>
 
 Homes for sale in Ballard are in high demand due to their appealing central location and close proximity to a wide array of things to see and do. Ballard real estate offers a diverse and vibrant lifestyle. PLEASE CONTACT US</p>
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div>
                 </li>
 
- <li><a href="#" data-toggle="collapse" data-target="#beacon_hill">Beacon Hill</a>
- <div id="beacon_hill" class="collapse">
- <h3 class="text-center">Beacon Hill Neighborhood</h3>
- <p>Beacon Hill is a very large neighborhood in South Seattle that is bounded by Interstate 5 to the west, Interstate 90 on the north, Rainier Avenue on the east, and the Seattle city boundary line on the south. Beacon Hill real estate is often divided into three sections, North Beacon Hill, Mid-Beacon Hill and South Beacon Hill. Each section has its own distinct feel. The North is a business district that once housed Amazon.com’s headquarters. The community becomes significantly more residential further south, with many Beacon Hill homes for sale located here. The housing selection is mostly small to moderate sized homes, as well as many condos and townhomes.<br><br>
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#beacon_hill">Beacon Hill<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
+                    <div id="beacon_hill" class="collapse">
+                        <h3 class="text-center header">Beacon Hill Neighborhood</h3>
+                        <p>Beacon Hill is a very large neighborhood in South Seattle that is bounded by Interstate 5 to the west, Interstate 90 on the north, Rainier Avenue on the east, and the Seattle city boundary line on the south. Beacon Hill real estate is often divided into three sections, North Beacon Hill, Mid-Beacon Hill and South Beacon Hill. Each section has its own distinct feel. The North is a business district that once housed Amazon.com’s headquarters. The community becomes significantly more residential further south, with many Beacon Hill homes for sale located here. The housing selection is mostly small to moderate sized homes, as well as many condos and townhomes.<br><br>
 
 Beacon Hill homes for sale can offer views of downtown, the Industrial District, Elliott Bay, First Hill, Rainier Valley, and, when the weather is nice, Mount Rainier and the Olympic Mountains. This is a neighborhood with much to offer. Beacon Hill was even named one of the 30 Great Places in America by the American Planning Association.  This was based on urban design and aesthetics, multi-modal transportation, sustainability, community participation and involvement, and memorable character.</p>
-<h4 class="text-center">More Details on Beacon Hill Homes for Sale</h4>
-<p>Residents of Beacon Hill real estate have easy access to beautiful park lands. Jefferson Park, for instance, is located between the mid and north sections and is the largest park in the area. This is undoubtedly one of Seattle’s best parks. At over 45 acres, it features a basketball court, a soccer field, a baseball/softball field, a playground, a tennis court, walking paths, a skate park and more. In addition, this park offers stunning views of the Duwamish River, the city skyline, and the Olympic Mountains. Other parks near Beacon Hill homes for sale include Rizal Park and John C. Little, Sr. Park, also known as 37th Avenue Park. <br><br>
+                        <h4 class="text-center header">More Details on Beacon Hill Homes for Sale</h4>
+                        <p>Residents of Beacon Hill real estate have easy access to beautiful park lands. Jefferson Park, for instance, is located between the mid and north sections and is the largest park in the area. This is undoubtedly one of Seattle’s best parks. At over 45 acres, it features a basketball court, a soccer field, a baseball/softball field, a playground, a tennis court, walking paths, a skate park and more. In addition, this park offers stunning views of the Duwamish River, the city skyline, and the Olympic Mountains. Other parks near Beacon Hill homes for sale include Rizal Park and John C. Little, Sr. Park, also known as 37th Avenue Park. <br><br>
 
 Beacon Hill is known for its plethora of fine foods and restaurants. Some favorite spots close by Beacon Hill homes for sale are Delite Bakery, The Station, Geraldine’s Counter Restaurant, The Cajun Crawfish, El Quetzal, Bar del Corso and so much more. There’s also the <a class="links" href="http://www.beaconfoodforest.org" target="_blank">Beacon Food Forest </a>, which is an edible food forest garden intended to encourage communal gatherings and sustainable gardening. <br><br>
 
 Beacon Hill homes for sale are fairly affordable for Seattle. Home prices range from $165,000 to $819,950. Whether you’re looking for a single-family home or a condo, there are numerous options when it comes to Beacon Hill real estate. Many of the homes come with hardwood or tile floors, double pane windows, stainless steel appliances, custom cabinets, and fenced back yards among other features.<br><br>
 
 Beacon Hill is a lively and diverse place to live. For more information on living in Beacon Hill real estate, contact area expert </p> 
-</div>
- </li>
-<li><a href="#" data-toggle="collapse" data-target="#capitol_hill">Capitol Hill</a>
-<div id="capitol_hill" class="collapse">
-<h3 class="text-center">Capitol Hill Neighborhood</h3>
-<p>Capitol Hill homes for sale are highly prized within the Seattle real estate market. As one of Seattle’s oldest neighborhoods, Capitol Hill mixes old world charm with urban trendiness. It is a diverse and vibrant place to live.</p>
-<h4 class="text-center">A Closer Look at Capitol Hill Homes for Sale</h4>
-<p>Capitol Hill is located east of Downtown Seattle and Lake Union, south of Mountlake, and east of Seattle’s First Hill and Madison Park. This neighborhood has one of the most convenient locations in Seattle real estate. It is conveniently close to I-5, downtown and Lake Washington.<br><br>
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
+                    </div>
+                </li>
+
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#capitol_hill">Capitol Hill<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i> </span>
+                    <div id="capitol_hill" class="collapse">
+                        <h3 class="text-center header">Capitol Hill Neighborhood</h3>
+                        <p>Capitol Hill homes for sale are highly prized within the Seattle real estate market. As one of Seattle’s oldest neighborhoods, Capitol Hill mixes old world charm with urban trendiness. It is a diverse and vibrant place to live.</p>
+                        <h4 class="text-center header">A Closer Look at Capitol Hill Homes for Sale</h4>
+                        <p>Capitol Hill is located east of Downtown Seattle and Lake Union, south of Mountlake, and east of Seattle’s First Hill and Madison Park. This neighborhood has one of the most convenient locations in Seattle real estate. It is conveniently close to I-5, downtown and Lake Washington.<br><br>
 
 Residents won’t have to go far for entertainment. There is much to do within close proximity to Capitol Hill homes for sale. Volunteer Park, for example, provides residents with 48.3 acres of open space. This park is also home to the Volunteer Park Conservatory and the Seattle Asian Art Museum. There’s also <a class="links" href="http://www.seattle.gov/parks/park_detail.asp?ID=3102" target="_blank">Cal Anderson Park</a>, which features a water reservoir, inverted fountain, playground, wading pool, wide green lawns, gravel jogging path and sports playfields.<br><br>
 
@@ -976,14 +1001,19 @@ Plenty of shopping, dining and entertainment surrounds Capitol Hill homes for sa
 There is a variety of homes for sale in Capitol Hill Seattle. Property choices range from condominiums to Victorian mansions. Many Capitol Hill homes for sale have views of Lake Union or downtown Queen Anne. Architecture ranges from modern to historic brick condos. Single family homes include both small craftsmen and sprawling mansions from before the turn of the century. Capitol Hill homes for sale are also located in some of the wealthiest districts of Seattle real estate, including “Millionaire’s Row” along 14th Avenue E. south of Volunteer Park and the Harvard-Belmont Landmark District. There are also many quaint-looking homes along tree-lined streets. Home price ranges from $169,950 to $5,950,000. Home size ranges from 309 square feet to 9,180 square feet.<br><br>
 
 Capitol Hill is a hip urban place to live. It has so much to offer homebuyers. If you would like more information on homes for sale in Capitol Hill Seattle, please contact us</p> 
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div>
                 </li>
-<li><a href="#" data-toggle="collapse" data-target="#central_district">Central District</a>
-<div id="central_district" class="collapse">
-<h3 class="text-center">Central District Neighborhood</h3>
-<p>Situated on the east side of Capitol Hill, the Central Seattle area is one of the oldest residential community in the city. Central District Seattle homes for sale have seen much new construction, refurbishments and community improvement projects. Central Seattle homes for sale are an ideal place to put down roots because of their close proximity to the Central Business District and family-oriented atmosphere.</p>
-<h4 class="text-center">Learn About Central District Seattle Homes for Sale</h4>
- <p>The great thing about Central District Seattle homes for sale is their premier location. Its central to all major activity in Capitol Hill, Madison Valley and First Hill. Central Seattle is bordered by East Madison Street on the north side, I-90 on the south side, Lake Washington on the east side and Rainier Avenue on the west side. Central Seattle homes for sale are positioned near bridges, giving easy access for in-city and east side commuters.<br><br>
+
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#central_district">Central District<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
+                    <div id="central_district" class="collapse">
+                        <h3 class="text-center header">Central District Neighborhood</h3>
+                        <p>Situated on the east side of Capitol Hill, the Central Seattle area is one of the oldest residential community in the city. Central District Seattle homes for sale have seen much new construction, refurbishments and community improvement projects. Central Seattle homes for sale are an ideal place to put down roots because of their close proximity to the Central Business District and family-oriented atmosphere.</p>
+                        <h4 class="text-center header">Learn About Central District Seattle Homes for Sale</h4>
+                        <p>The great thing about Central District Seattle homes for sale is their premier location. Its central to all major activity in Capitol Hill, Madison Valley and First Hill. Central Seattle is bordered by East Madison Street on the north side, I-90 on the south side, Lake Washington on the east side and Rainier Avenue on the west side. Central Seattle homes for sale are positioned near bridges, giving easy access for in-city and east side commuters.<br><br>
 
 Since it is one of the older neighborhoods in Seattle, the area is full of cultural heritage and rich history. It is a very diverse community, as it was settled by people from backgrounds such as European Americans, African Americans, Japanese, Filipinos and Jews. Many of these communities still have strong influence in the area. There are many events and festivals that support and encourage community pride including the Central Area Community Festival and Parade held in August and the <a class="links" href="http://seattlebetsuin.org/index.php/bon-odori-festival/" target="_blank">Bon Odori Festival</a> in July celebrating Japanese culture.<br><br>
 
@@ -996,14 +1026,19 @@ You’ll also be happy to find an array of dining and shopping choices surroundi
 Central District Seattle homes for sale do not disappoint. There is a variety of living styles from such as classic-style homes, craftsman-style homes, as well as small bungalows, condos and townhomes. Home prices range from about $199,000 up to $3,400,000. Home sizes range anywhere from 468 square feet to 5,650 square feet. The floor plans have on average about 1 bedroom, 2 bedroom or 3 bedroom options but can go up to 6 bedroom layouts.<br><br>
 
 If you would like more information on buying or selling Central District Seattle homes for sale please contact us </p> 
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div>
                 </li>
-<li><a href="#" data-toggle="collapse" data-target="#green_lake">Green Lake</a>
-<div id="green_lake" class="collapse">
-<h3 class="text-center">Green Lake Neighborhood</h3>
-<p>Green Lake is one of the most desirable neighborhoods in Seattle. This urban village style neighborhood has so much to offer, with shopping, restaurants, and other wonderful attractions. Green Lake homes for sale are popular with commuters due to the close proximity to downtown and the easy access to community transit. Residents of Green Lake real estate can easily commute downtown in ten to fifteen minutes and have an easy network of transit for commuting elsewhere in the greater Seattle area. This is a very convenient and active Seattle neighborhood.</p>
-<h4 class="text-center">Learn More About Green Lake Homes for Sale</h4>
-<p>One of the best things about Green Lake homes for sale is their close proximity to the amazing namesake Green Lake. This lake and its surrounding parkland serve as the focus and center of the neighborhood. It features about three miles of paved and gravel trails for jogging, biking, rollerblading, or strolling. There’s also an indoor swimming pool, tennis courts, room to play baseball, golf, soccer, basketball, or open space for enjoying a picnic with friends or family. The lake itself is a source for even more fun activities, like swimming, kayaking, fishing and more.<br><br>
+                       
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#green_lake">Green Lake<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
+                    <div id="green_lake" class="collapse">
+                        <h3 class="text-center header">Green Lake Neighborhood</h3>
+                        <p>Green Lake is one of the most desirable neighborhoods in Seattle. This urban village style neighborhood has so much to offer, with shopping, restaurants, and other wonderful attractions. Green Lake homes for sale are popular with commuters due to the close proximity to downtown and the easy access to community transit. Residents of Green Lake real estate can easily commute downtown in ten to fifteen minutes and have an easy network of transit for commuting elsewhere in the greater Seattle area. This is a very convenient and active Seattle neighborhood.</p>
+                        <h4 class="text-center header">Learn More About Green Lake Homes for Sale</h4>
+                        <p>One of the best things about Green Lake homes for sale is their close proximity to the amazing namesake Green Lake. This lake and its surrounding parkland serve as the focus and center of the neighborhood. It features about three miles of paved and gravel trails for jogging, biking, rollerblading, or strolling. There’s also an indoor swimming pool, tennis courts, room to play baseball, golf, soccer, basketball, or open space for enjoying a picnic with friends or family. The lake itself is a source for even more fun activities, like swimming, kayaking, fishing and more.<br><br>
 
 In addition to all the fun available at Green Lake park and the lake, residents of Green Lake real estate can delight in many other area attractions. There’s the nearby Woodland Park Zoo, as well as the <a class="links" href="http://www.seattlepublictheater.org/" target="_blank">Seattle Public Theatre,</a> the Green Lake Library, and the Green Lake Pitch & Putt. The entertainment options are plentiful!<br><br>
 
@@ -1014,14 +1049,19 @@ Those living in Green Lake real estate have many yummy restaurants, eateries and
 Green Lake homes for sale are mostly older single-family homes, including Tudors, colonials, and bungalows with wraparound porches. Many homes have gorgeous lakefront views. There are townhomes and condos to choose from as well. Green Lake real estate comes in a wide range of prices with lakefront homes being more expensive. Home prices range from $186,000 to $1,799,000. Home size ranges from about 500 square feet to about 4,000 square feet.<br><br>
 
 With the ample opportunities for outdoor recreation, nearness to downtown, and variety of shopping and dining, it’s no wonder Green Lake is such a wonderful place to call home. If you would like more information on Green Lake homes for sale, please contact us </p> 
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div>
                 </li>
-<li><a href="#" data-toggle="collapse" data-target="#east_lake">East Lake</a>
-<div id="east_lake" class="collapse">
-<h3 class="text-center">East Lake Neighborhood</h3>
-<p>This is a quaint community on the east side of Lake Union in north Seattle. Eastlake homes for sale are available in styles ranging from modest size homes to grandiose homes with small town charm. The neighborhood has grown a tremendous amount with newly developed condos and apartments. There is a variety of architectural styles including urban contemporary, turn-of-the-century, floating homes, old brick and timber and modern townhomes. Eastlake Seattle real estate offers a eclectic, vibrant lifestyle.</p>
-<h4 class="text-center">About Eastlake Homes for Sale and Amenities</h4>
-<p>There are so many fun things to do and see in Eastlake Seattle. You’re also very close to the downtown area. Lake Union is a wonderful place to enjoy a lovely day. There is a boat launch for sailboats, kayaks or canoes and other water activities. Eastlake has the highest concentration of houseboats in Seattle.<br><br>
+
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#east_lake">East Lake<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
+                    <div id="east_lake" class="collapse">
+                        <h3 class="text-center header">East Lake Neighborhood</h3>
+                        <p>This is a quaint community on the east side of Lake Union in north Seattle. Eastlake homes for sale are available in styles ranging from modest size homes to grandiose homes with small town charm. The neighborhood has grown a tremendous amount with newly developed condos and apartments. There is a variety of architectural styles including urban contemporary, turn-of-the-century, floating homes, old brick and timber and modern townhomes. Eastlake Seattle real estate offers a eclectic, vibrant lifestyle.</p>
+                        <h4 class="text-center header">About Eastlake Homes for Sale and Amenities</h4>
+                        <p>There are so many fun things to do and see in Eastlake Seattle. You’re also very close to the downtown area. Lake Union is a wonderful place to enjoy a lovely day. There is a boat launch for sailboats, kayaks or canoes and other water activities. Eastlake has the highest concentration of houseboats in Seattle.<br><br>
 
 There is even a Lake Union Crew team that offers programs for residents and a summer camp for youth.  For more outdoor recreation, there are several parks along the shore. Fairview Park offers a hand carry boat launch, fishing spots and the <a class="links" href="http://www.seattle.gov/neighborhoods/programs-and-services/p-patch-community-gardening" target="_blank">P-Patch Community Garden.</a> There is room for picnic tables and bike racks also. Eastlake Bouledrome offers the best in waterfront bocce ball. Eastlake real estate is surrounded by active lifestyle opportunities.<br><br>
 
@@ -1030,13 +1070,18 @@ Residents can enjoy some great entertainment at the many local spots near Eastla
 Residents also have quick access to the I-5, 520 and the I-90 for easy commuting. The University of Washington is also in close proximity to Eastlake Seattle real estate. There are also several community events that occur near Eastlake Seattle homes for sale. The Eastlake Shake Fair features live music, local vendors and the Eastlake Shake Pet Parade. There are also movies in the park and concerts.<br><br>
 
 With the ample opportunities for outdoor recreation, nearness to downtown, and variety of shopping and dining, it’s no wonder Green Lake is such a wonderful place to call home. If you would like more information on Green Lake homes for sale, please contact us </p> 
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div>
-<li><a href="#" data-toggle="collapse" data-target="#queen_anne">Queen Anne</a>
-<div id="queen_anne" class="collapse">
-<h3 class="text-center">Queen Ann Neighborhood</h3>
-<p>Queen Anne real estate is comprised of a variety of living styles, such as older townhomes, multifamily properties, upscale single-family homes, and condos in downtown Seattle. The neighborhood is a cultural mix of people and lifestyles. Certain nooks of Queen offer different atmospheres. For example, Upper Queen Anne is comprised of serene, tree-line streets with family-friendly homes, while Lower Queen Anne homes for sale are in the midst of an active night life and urban entertainment.</p>
- <h4 class="text-center">Details About Queen Anne Real Estate and Lifestyle</h4>
-<p>There are plenty of fun things to do in Seattle and Queen Anne real estate doesn’t fall short in activities and attractions. Queen Anne backs up the <a class="links" href="http://www.seattlecenter.com/" target="_blank">Seattle Center,</a> which is home to the Space Needle, Key Arena and the Science Center. Key Arena hosts Rat City Rollergirls derby tournaments as well as the Seattle Storm. The center boasts the Seattle Children’s Theater, Folk Life, IMAX Theater and Bumbershoot festival. Queen Anne Avenue is the main drag with a plethora of dining and shopping. Popular places to eat and relax are Uptown Espresso, Peso’s, Buckley’s, El Diablo, How to Cook a Wolf, 5 Spot, Palisade Waterfront Restaurant, Ten Mercer and Ozzie’s Karaoke Bar among others.<br><br>
+
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#queen_anne">Queen Anne<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
+                    <div id="queen_anne" class="collapse">
+                        <h3 class="text-center header">Queen Ann Neighborhood</h3>
+                        <p>Queen Anne real estate is comprised of a variety of living styles, such as older townhomes, multifamily properties, upscale single-family homes, and condos in downtown Seattle. The neighborhood is a cultural mix of people and lifestyles. Certain nooks of Queen offer different atmospheres. For example, Upper Queen Anne is comprised of serene, tree-line streets with family-friendly homes, while Lower Queen Anne homes for sale are in the midst of an active night life and urban entertainment.</p>
+                        <h4 class="text-center header">Details About Queen Anne Real Estate and Lifestyle</h4>
+                        <p>There are plenty of fun things to do in Seattle and Queen Anne real estate doesn’t fall short in activities and attractions. Queen Anne backs up the <a class="links" href="http://www.seattlecenter.com/" target="_blank">Seattle Center,</a> which is home to the Space Needle, Key Arena and the Science Center. Key Arena hosts Rat City Rollergirls derby tournaments as well as the Seattle Storm. The center boasts the Seattle Children’s Theater, Folk Life, IMAX Theater and Bumbershoot festival. Queen Anne Avenue is the main drag with a plethora of dining and shopping. Popular places to eat and relax are Uptown Espresso, Peso’s, Buckley’s, El Diablo, How to Cook a Wolf, 5 Spot, Palisade Waterfront Restaurant, Ten Mercer and Ozzie’s Karaoke Bar among others.<br><br>
 
 Queen Anne real estate is known for its topography of steep rolling hills and gorgeous skyline vies. Kerry Park is a wonderful place to lookout at Elliot Bay and Seattle. This neighborhood is consistently ranked as one of Seattle’s Best Neighborhoods due to it being extremely walkable and family oriented. Additonal outdoor recreation can be found at Kinnear Park, the largest park in the neighborhood at 14 acres, as well as Rachel’s Park, Queen Anne Bowl with a dirt running track and soccer pitch, and West Queen Anne Playfield with a swimming pool, and baseball and softball fields.<br><br>
 
@@ -1045,14 +1090,19 @@ Queen Anne Seattle homes for sale are near five public schools as well as privat
 This is a wonderful place to live with something for everyone. Queen Anne real estate ranges in price from about $185,000 up to $7,500,000. Home size ranges from about 674 square feet to well over 7,000 square feet. The assortment of floor plans is amazing.<br><br>
 
 For a viewing of Queen Anne homes for sale, please contact us </p> 
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div>
                 </li>
-<li><a href="#" data-toggle="collapse" data-target="#south_lake_union">South Lake Union</a>
+
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#south_lake_union">South Lake Union<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
                     <div id="south_lake_union" class="collapse">
-<h3 class="text-center">South Lake Union Neighborhood</h3>
-<p>One of the most up and coming places to live is South Lake Union Seattle real estate. Evidently name due to its location on the south end of Lake Union, the community boasts a variety living styles as well as a vibrant, growing economy. Brand new lofts, restaurants, jobs and a new light rail system have made South Lake Union the place to be. In fact, Seattle Met Magazine has named the area “Where You’ll Want to be in 2016.”</p>
-<h4 class="text-center">A Closer Look at South Lake Union Seattle Real Estate</h4>
-<p>It is bordered by Denny Way to the south, I-5 to the east, State Route 99 to the west and Lake Union to the north. South Lake Union Seattle real estate is worth the investment because of the ample job opportunities. Due to recent development, the area is the new hub of life science organizations and other huge companies. Life science institutions such as Seattle Biomedical Research Institute, Seattle Children’s Hospital, Bio-Rad, Zymogentics, Fred Hutchinson Cancer Research Center and University of Washington Medicine provide residents with jobs. Amazon Campus has also invested space here making it a large success.<br><br>
+                        <h3 class="text-center header">South Lake Union Neighborhood</h3>
+                        <p>One of the most up and coming places to live is South Lake Union Seattle real estate. Evidently name due to its location on the south end of Lake Union, the community boasts a variety living styles as well as a vibrant, growing economy. Brand new lofts, restaurants, jobs and a new light rail system have made South Lake Union the place to be. In fact, Seattle Met Magazine has named the area “Where You’ll Want to be in 2016.”</p>
+                        <h4 class="text-center header">A Closer Look at South Lake Union Seattle Real Estate</h4>
+                        <p>It is bordered by Denny Way to the south, I-5 to the east, State Route 99 to the west and Lake Union to the north. South Lake Union Seattle real estate is worth the investment because of the ample job opportunities. Due to recent development, the area is the new hub of life science organizations and other huge companies. Life science institutions such as Seattle Biomedical Research Institute, Seattle Children’s Hospital, Bio-Rad, Zymogentics, Fred Hutchinson Cancer Research Center and University of Washington Medicine provide residents with jobs. Amazon Campus has also invested space here making it a large success.<br><br>
 
 With the urban infill of condos and lofts it is becoming a walkable city. Residents of South Lake Union Seattle real estate can also use the <a class="links" href="http://www.seattlestreetcar.org/slu.htm" target="_blank">South Lake Union Streetcar.</a> It links the neighborhood to downtown and other transit systems including the Link Light Rail and Monorail. If you’re a biker than the Pronto Cycle Share stations allow you to safely bike around town. Residents can easily get to Denny Triangle and other shops as well. Popular local places include Top Pot Doughnuts, Victory Lounge, Cactus and Portage Bay Cafe. It is home to <a class="links" href="https://www.rei.com/stores/seattle.html" target="_blank">REI,</a> Whole Foods, Chandlers Cove, Honeychurch Antiques, West Elm and Glazer’s Camera.<br><br>
 
@@ -1063,21 +1113,30 @@ The Center for Wooden Boats allows residents to rent rowboats, kayaks or sailboa
 With new and old, South Lake Union homes for sale come in a variety of architectural styles. Buildings have brick and timber as well as modern industrial design. Home price ranges from about $400,000 to well over $1,000,000. Home size ranges from about 747 square feet up to 2,237 square feet. There is constant growth in this neighborhoods such as mobility plans and on-street parking as well as sustainability and transportation. South Lake Union is definitely the place to move to.<br><br>
 
 If you would like more information about South Lake Union Seattle real estate, please contact us </p> 
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div>
                 </li>
-<li><a href="#" data-toggle="collapse" data-target="#west_lake">West Lake</a>
-<div id="west_lake" class="collapse">
-<h3 class="text-center">West Lake Union Neighborhood</h3>
-<p>This is a small, narrow community in north Seattle. Westlake homes for sale are located on the west side of Lake Union. The community is comprised of just a few blocks between the shoreline and Aurora Avenue N. West of Westlake is the Seattle neighborhood Queen Anne. South Lake Union is south and Fremont is the northern border. The main streets in Westlake real estate are Dexter and Westlake Avenues N.”</p>
-<h4 class="text-center">Discover Westlake Homes for Sale and Attractions</h4>
-<p>Westlake is a major transportation passageway between downtown and North Seattle. You’ll find that Westlake Seattle real estate is comprised of a variety of living styles such as condos, apartments, single-family homes and houseboats. There are also many offices and retail spaces. Westlake homes for sale range in price from about $274,950 up to $549,000. Home size ranges from about 657 square feet up to 1,448 square feet. Many homes are older, historical homes or modern.<br><br>
+
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#west_lake">West Lake<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
+                    <div id="west_lake" class="collapse">
+                        <h3 class="text-center header">West Lake Union Neighborhood</h3>
+                        <p>This is a small, narrow community in north Seattle. Westlake homes for sale are located on the west side of Lake Union. The community is comprised of just a few blocks between the shoreline and Aurora Avenue N. West of Westlake is the Seattle neighborhood Queen Anne. South Lake Union is south and Fremont is the northern border. The main streets in Westlake real estate are Dexter and Westlake Avenues N.”</p>
+                        <h4 class="text-center header">Discover Westlake Homes for Sale and Attractions</h4>
+                        <p>Westlake is a major transportation passageway between downtown and North Seattle. You’ll find that Westlake Seattle real estate is comprised of a variety of living styles such as condos, apartments, single-family homes and houseboats. There are also many offices and retail spaces. Westlake homes for sale range in price from about $274,950 up to $549,000. Home size ranges from about 657 square feet up to 1,448 square feet. Many homes are older, historical homes or modern.<br><br>
 
 It’s very easy to get to downtown via Fremont, Ballard or Wallingford either by bus, car or even biking. Activities near Westlake homes for sale mostly involve water recreation. The South Lake Union Park is a great place to enjoy a sunny day. There are boat launches for kayaks, sail boats and canoes or swimming.<br><br>
 
 <a class="links" href="http://www.kenmoreair.com/" target="_blank">Kenmore Air</a> and Argosy Cruises leave from here also. The Seaplanes take off from the Kenmore Air Seaplane Terminal. Residents can reach the San Juan Islands or Olympic Peninsula. Other things that make Westlake special are the Swedish Cultural Center and their Swedish pancake breakfast the first Sunday of the month or the Scandinavian Holiday Bazaar.<br><br>
 
 This is a great place for professionals and singles as well as retirees. It’s just a short bus trip to Pike Place Market and the Seattle Center. There are plenty of waterfront seafood restaurants such as McCormick and Schmick’s Seafood. There is also a Jillian’s Pool hall, China Harbor Restaurant and Outback Steakhouse. If you love the water and are looking for a lovely place to live in the Seattle area, Westlake homes for sale are for you.<br><br>
-</p> 
+
+If you would like more information on Westlake Seattle homes for sale, please contact us </p> 
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div>
                 </li>
             </ul>
@@ -1140,6 +1199,9 @@ This is a great place for professionals and singles as well as retirees. It’s 
            <!--<div class="text-center">
 <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> Contact Us</button>
 </div> -->
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                 </div> <!-- steps_to_buying -->
 
                     <div class="facts_and_common_myths">
@@ -1167,6 +1229,9 @@ flagging findings to use in negotiations or offer strategies as soon as you are 
              <!--<div class="text-center">
 <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> Contact Us</button>
 </div> -->
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div> <!-- facts_&_common_myth -->
                     
                     <div class="technology_and_cervices">
@@ -1186,6 +1251,9 @@ flagging findings to use in negotiations or offer strategies as soon as you are 
            <!--<div class="text-center">
 <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> Contact Us</button>
 </div> -->   
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div> <!-- technology_and_cervices -->
                     
                     <div class="resources">
@@ -1204,6 +1272,9 @@ calculate how much house you can really afford.</p>
                         <!--<div class="text-center">
 <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> Contact Us</button>
 </div> -->
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div> <!-- resources -->
 
                 </div>
@@ -1212,10 +1283,12 @@ calculate how much house you can really afford.</p>
     </div>
 
     <div class="block_mobile container">
-            <ul class="nav popup_side_menu  text-center">    
-                <li><a href="#" data-toggle="collapse" data-target="#steps_to_buying">Steps to Buying</a>
+            <ul class="nav popup_side_menu  text-center">
+                <h3 class="text-center">Steps & Resources for Buying a Home</h3> 
+                <li><span class="btn btn-primary-mobile btn-primary-mobile-first-of-type" href="#" data-toggle="collapse" data-target="#steps_to_buying">Steps to Buying<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
                     <div id="steps_to_buying" class="collapse">
-                        <h5 class="service_subheader">Decide if it’s the right time to buy</h5>
+                        <h5 class="service_subheader mobile_top_spacer">Decide if it’s the right time to buy</h5>
                         <p>Consider why you want to move; decide on what’s important in a home. Think about what you want in a home including location, features, finishes, and ability to customize.</p>
                         <h5 class="service_subheader">Find a broker</h5>
                         <p>Choosing the right broker is important — find a broker that you can easily communicate with, and one you can trust to get you your dream home, not just any home. </p>
@@ -1235,16 +1308,16 @@ calculate how much house you can really afford.</p>
                         <p>All ‘behind the scenes’ work goes into overdrive as the brokers, escrow, title, sellers, lenders, and any attorneys begin transacting the sale. Your broker will oversee every party in the transaction.</p>
                         <h5 class="service_subheader">Signing and close!</h5>
                         <p>Prior to close, you will sign papers. On the actual day of closing the transaction will finalize and you are the owner of your new home. Congratulations!</p>
-                        
-                        <div class="text-center">
-                        <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> Contact Us</button>
-                        </div>
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div> <!-- steps_to_buying -->
                 </li>
                 
-                <li><a href="#" data-toggle="collapse" data-target="#facts_and_common_myths">Facts & Common Myths</a>
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#facts_and_common_myths">Facts & Common Myths<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
                     <div id="facts_and_common_myths" class="collapse" >
-                        <h5 class="service_header">Facts</h5> <hr>
+                        <h5 class="service_header mobile_top_spacer">Facts</h5> <hr>
                         <h5 class="service_subheader">Agent vs. Broker:</h5>
                         <p>In Washington, all professionals who sell real estate are licensed brokers. In 2010 Washington ceased the agent certification.</p>
                         <h5 class="service_subheader">A Buyer’s Broker is Free:</h5>
@@ -1260,15 +1333,16 @@ commission. It’s of the best interest of the buyer to have someone educating, 
                         <h5 class="service_subheader">Myth: <span class="inline_paragraph">Brokers are obsolete now that all houses are online.</span></h5>
                         <h5 class="service_subheader">Truth: <span class="inline_paragraph">Information on a website can be delayed or inputted/transferred incorrectly from a main database such as the NWMLS. Also, a quality, full-time broker will begin
 flagging findings to use in negotiations or offer strategies as soon as you are interested in the home. The broker’s local market knowledge and experience cannot yet be replicated by any database.</span></h5> <br>
-           <!--<div class="text-center">
-<button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> Contact Us</button>
-</div> -->
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>                       
                     </div> <!-- facts_&_common_myth -->
                 </li>
 
-                <li><a href="#" data-toggle="collapse" data-target="#technology_and_cervices">Technology and Services</a>
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#technology_and_cervices">Technology and Services<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
                     <div id="technology_and_cervices" class="collapse">
-                        <h5 class="service_subheader">Showing Time Services</h5>
+                        <h5 class="service_subheader mobile_top_spacer">Showing Time Services</h5>
                         <p>Online scheduling services for instant 24/7 communication for prospective buyer or agent to request showings. This service streamlines the house showing process so you see as many quality homes as possible.</p>
                         <h5 class="service_subheader">Timeline Updates</h5>
                         <p>Your broker will give you frequent updates and provide you with a detailed Folio timeline of your home buying process. This way, you’re always kept in the loop during every step the purchase of your home.</p>
@@ -1279,16 +1353,17 @@ flagging findings to use in negotiations or offer strategies as soon as you are 
                         <h5 class="service_subheader">Unparalleled Research</h5>
                         <p>We not only help search and show homes, we have access to more information than the public and even some brokers. The additional information we get you will help with both the negotiations and transaction.</p>
                         <h5 class="service_subheader">Any Time, Any Day</h5>
-                        <p>Because Seattle’s real estate market has always been fast-paced, our reachability proves especially important to our clients. With this possibly being the largest financial decision in your life, it’s important to have an expert on hand the moment a question comes up. In our market, the buyer’s broker is free to the buyer, so no matter how often you use your broker, we’re always free to you.</p>
-           <!--<div class="text-center">
-<button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> Contact Us</button>
-</div> -->   
+                        <p>Because Seattle’s real estate market has always been fast-paced, our reachability proves especially important to our clients. With this possibly being the largest financial decision in your life, it’s important to have an expert on hand the moment a question comes up. In our market, the buyer’s broker is free to the buyer, so no matter how often you use your broker, we’re always free to you.</p>   
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div> <!-- technology_and_cervices -->
                 </li>
 
-                <li><a href="#" data-toggle="collapse" data-target="#resources">Resources</a>
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#resources">Resources<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
                     <div id="resources" class="collapse"> 
-                        <h5 class="service_subheader"> <a class="links" href="http://www.kingcounty.gov/services/homeproperty.aspx" target="_blank">K
+                        <h5 class="service_subheader mobile_top_spacer"> <a class="links" href="http://www.kingcounty.gov/services/homeproperty.aspx" target="_blank">K
 ing County: Home & Property</a></h5>
                         <p>206-296-0100 <br> Information on property tax assistance, building
 permits, locating properties, looking up property values, and more.</p>
@@ -1298,10 +1373,10 @@ permits, locating properties, looking up property values, and more.</p>
                         <p>Uses your annual income, and monthly debts to
 calculate how much house you can really afford.</p>
                         <h5 class="service_subheader">Caliber Home Loans</h5>
-                        <p>Jim Murphy, NMLS ID 1275965 <br> 206-353-6753 <br> jim.murphy@caliberhomeloans.com <br> Call with any financing questions!!</p> 
-                      <!--<div class="text-center">
-<button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> Contact Us</button>
-</div> -->
+                        <p>Jim Murphy, NMLS ID 1275965 <br> 206-353-6753 <br> jim.murphy@caliberhomeloans.com <br> Call with any financing questions!!</p>   
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div> <!-- resources -->
                 </li>
             </ul>
@@ -1359,6 +1434,9 @@ calculate how much house you can really afford.</p>
            <!--<div class="text-center">
 <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> Contact Us</button>
 </div> -->
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                 </div> <!-- steps_to_buying -->
 
                     <div class="strategies">
@@ -1368,9 +1446,9 @@ calculate how much house you can really afford.</p>
                         <h5 class="service_subheader">Free Staging Consult: <span class="inline_paragraph">A professional stager will give you their advice to strategically add/remove/rearrange decor for optimal showings and photos. This helps potential buyers envision their own belongings in the space.</span></h5>
                         <h5 class="service_subheader">ZILLOW Walkthrough:<span class="inline_paragraph">We will get your listing a guaranteed spot at the top of Zillow search by taking a unique walkthrough video of your home</span></h5> <br>           
                         <h5 class="service_subheader">Diligent Communication <span class="inline_paragraph">with various groups of potential buyers and other regional agents. This provides maximum exposure of your home, which in turn provides a higher number of competitive offers.</span></h5><br>
-            <div class="text-center">
-                <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i>CLOSE</button>
-                    </div>
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div> <!-- strategies -->
                     
                     <div class="technology">
@@ -1383,10 +1461,10 @@ professional photoshoot with lighting and a variety of cameras.</span></h5>
                         <h5 class="service_subheader">NWMLS and Syndication<span class="inline_paragraph">to hundreds of real estate websites along with manual entry to dozens of other non- IDX sites where potential buyers may be searching.</span></h5> <br>           
                         <h5 class="service_subheader">Personalized Webpage <span class="inline_paragraph">for your home. Includes Virtual Tour, statistics, and highlighted qualities of your home and neighborhood.</span></h5>
                         <h5 class="service_subheader">Detailed Timeline by
-FOLIO: <span class="inline_paragraph">Your broker will give you frequent updates and provide you with a real-time, detailed timeline of your home selling process.</span></h5><br>
-            <div class="text-center">
-                <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> CLOSE</button>
-                    </div>       
+FOLIO: <span class="inline_paragraph">Your broker will give you frequent updates and provide you with a real-time, detailed timeline of your home selling process.</span></h5><br>      
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div> <!-- technology_and_cervices -->
                     
                     <div class="resources">
@@ -1400,10 +1478,10 @@ FOLIO: <span class="inline_paragraph">Your broker will give you frequent updates
 calculate how much house you can really afford.</p>
                         <h5 class="service_subheader"><a class="links" href="http://www.hgtv.com/design/decorating/design-101/10-
 best-kept-secrets-for-selling-your-home" target="_blank">10 Best-Kept Secrets for Selling Your Home</a></h5>
-                        <p>A simplified list of tips to streamline your home selling process.</p><br> 
-                        <div class="text-center">
-                            <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> CLOSE</button>
-                        </div>  
+                        <p>A simplified list of tips to streamline your home selling process.</p><br>   
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
                     </div> <!-- resources -->
 
                 </div>
@@ -1411,13 +1489,13 @@ best-kept-secrets-for-selling-your-home" target="_blank">10 Best-Kept Secrets fo
         </div>
     </div>
 
- <!--   <div class="block_mobile container">
-            <ul class="nav popup_side_menu  text-center"> 
-                
-                
-<li><a href="#" data-toggle="collapse" data-target="#steps_to_selling">Steps to Buying</a>
+<div class="block_mobile container">
+            <ul class="nav popup_side_menu  text-center">
+                <h3 class="text-center">Steps to Selling a House</h3> 
+                <li><span class="btn btn-primary-mobile btn-primary-mobile-first-of-type" href="#" data-toggle="collapse" data-target="#steps_to_selling">Steps to Selling a House<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
                     <div id="steps_to_selling" class="collapse">
-                        <h5 class="service_subheader">Decide if it’s the right time to sell your home.</h5>
+                        <h5 class="service_subheader mobile_top_spacer">Decide if it’s the right time to sell your home.</h5>
                         <p>Although hiring a full-time real estate broker will take much of the workload and worry off, it will still require time and attention.</p>
                         <h5 class="service_subheader">Interview multiple brokers.</h5>
                         <p>Find a broker who you feel comfortable speaking to and shows knowledge in your home, neighborhood, and current market.!</p>
@@ -1435,29 +1513,30 @@ best-kept-secrets-for-selling-your-home" target="_blank">10 Best-Kept Secrets fo
                         <p>Signing of paperwork will take place 2-3 days prior to close. On the day of close, all important parties tie matters up, and after the county finishes recording information, keys are handed over.</p>
                         <h5 class="service_subheader">Search and/or close on purchase of new home.</h5>
                         <p>On day of closing, you’ll likely be closing on or still searching for a home. It is best to use the same broker for both transactions as you two will already be in close contact.</p><br>
-                        
-                        <div class="text-center">
-                            <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> CLOSE</button>
-                        </div>
-                    </div> <!-- steps_to_selling
+<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>                        
+                </div> <!-- steps_to_buying -->
                 </li>
                 
-                <li><a href="#" data-toggle="collapse" data-target="#strategies">Strategies</a>
-                    <div id="strategies" class="collapse" > 
-                        <h5 class="service_subheader">Free Home Inspections <span class="inline_paragraph">by a fully licensed and bonded home inspector. Providing the buyer a pre-listing inspection deters later negotiations to get you the highest offer and smoothest transaction.</span></h5> <br>
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#strategies">Our Strategies<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
+                    <div id="strategies" class="collapse" >
+                        <h5 class="service_subheader mobile_top_spacer">Free Home Inspections <span class="inline_paragraph">by a fully licensed and bonded home inspector. Providing the buyer a pre-listing inspection deters later negotiations to get you the highest offer and smoothest transaction.</span></h5> <br>
                         <h5 class="service_subheader">Open Houses: <span class="inline_paragraph">We understand the importance of open houses, especially for owner or tenant occupied homes. Your broker may prescribe up to 4 open houses the first week to guarantee your property is seen by plenty of buyers.</span></h5>
                         <h5 class="service_subheader">Free Staging Consult: <span class="inline_paragraph">A professional stager will give you their advice to strategically add/remove/rearrange decor for optimal showings and photos. This helps potential buyers envision their own belongings in the space.</span></h5>
                         <h5 class="service_subheader">ZILLOW Walkthrough:<span class="inline_paragraph">We will get your listing a guaranteed spot at the top of Zillow search by taking a unique walkthrough video of your home</span></h5> <br>           
                         <h5 class="service_subheader">Diligent Communication <span class="inline_paragraph">with various groups of potential buyers and other regional agents. This provides maximum exposure of your home, which in turn provides a higher number of competitive offers.</span></h5><br>
-                        <div class="text-center">
-                            <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i>CLOSE</button>
-                        </div>
-                    </div> <!-- strategies
-                </li> 
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
+                    </div> <!-- strategies -->
+                </li>
 
-                <li><a href="#" data-toggle="collapse" data-target="#technology">Technology and Services</a>
-                    <div id="technology" class="collapse">
-                        <h5 class="service_subheader">Free 3D Interactive Virtual Tour by MATTERPORT <span class="inline_paragraph">showcased with 3D view and floor plans of each level. Easy access links on NWMLS, ZILLOW, and other sites.</span></h5> <br>
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#technology">Our Technologies<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
+                    <div id="technology" class="collapse"> 
+                        <h5 class="service_subheader mobile_top_spacer">Free 3D Interactive Virtual Tour by MATTERPORT <span class="inline_paragraph">showcased with 3D view and floor plans of each level. Easy access links on NWMLS, ZILLOW, and other sites.</span></h5> <br>
                         <h5 class="service_subheader">Free Professional
 Photography by PACIFIC SHOWINGS:<span class="inline_paragraph">2-4hr
 professional photoshoot with lighting and a variety of cameras.</span></h5>
@@ -1465,16 +1544,17 @@ professional photoshoot with lighting and a variety of cameras.</span></h5>
                         <h5 class="service_subheader">NWMLS and Syndication<span class="inline_paragraph">to hundreds of real estate websites along with manual entry to dozens of other non- IDX sites where potential buyers may be searching.</span></h5> <br>           
                         <h5 class="service_subheader">Personalized Webpage <span class="inline_paragraph">for your home. Includes Virtual Tour, statistics, and highlighted qualities of your home and neighborhood.</span></h5>
                         <h5 class="service_subheader">Detailed Timeline by
-FOLIO: <span class="inline_paragraph">Your broker will give you frequent updates and provide you with a real-time, detailed timeline of your home selling process.</span></h5><br>
-            <div class="text-center">
-                <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> CLOSE</button>
-                    </div>       
-                    </div> <!-- technology_and_cervices 
+FOLIO: <span class="inline_paragraph">Your broker will give you frequent updates and provide you with a real-time, detailed timeline of your home selling process.</span></h5><br>   
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
+                    </div> <!-- technology_and_cervices -->
                 </li>
 
-                <li><a href="#" data-toggle="collapse" data-target="#resources">Resources</a>
+                <li><span class="btn btn-primary-mobile" href="#" data-toggle="collapse" data-target="#resources">Resources<i class="fa fa-angle-right fa-lg arrow-spacing" aria-hidden="true"></i>
+</span>
                     <div id="resources" class="collapse">  
-                        <h5 class="service_subheader"> <a class="links" href="http://www.kingcounty.gov/services/home-property.aspx" target="_blank">King County: Home & Property</a></h5>
+                        <h5 class="service_subheader mobile_top_spacer"> <a class="links" href="http://www.kingcounty.gov/services/home-property.aspx" target="_blank">King County: Home & Property</a></h5>
                         <p>206-296-0100 <br> Information on property tax assistance, building permits, locating properties, looking up property values, and more.</p>
                         <h5 class="service_subheader"> <a class="links" href="https://www.irs.gov/uac/newsroom/top-ten-tax-facts-if-you-sell-your-home" target="_blank">Top Ten Tax Facts If You Sell Your Home</a></h5>
                         <p>800-829-3676 <br>Provides valuable tax information to know when selling a home.</p>
@@ -1483,18 +1563,14 @@ FOLIO: <span class="inline_paragraph">Your broker will give you frequent updates
 calculate how much house you can really afford.</p>
                         <h5 class="service_subheader"><a class="links" href="http://www.hgtv.com/design/decorating/design-101/10-
 best-kept-secrets-for-selling-your-home" target="_blank">10 Best-Kept Secrets for Selling Your Home</a></h5>
-                        <p>A simplified list of tips to streamline your home selling process.</p><br> 
-                        <div class="text-center">
-                            <button class="btn btn-primary popup_btn "><i class="fa fa-paper-plane"></i> CLOSE</button>
-                        </div>  
-                    </div> <!-- resources 
+                        <p>A simplified list of tips to streamline your home selling process.</p><br>   
+						<div class="text-center">
+        <button type="button" class="btn btn-close" data-dismiss="modal">Close</button>
+      </div>
+                    </div> <!-- resources -->
                 </li>
             </ul>
-    </div> -->
-	</div>
-	</div>
-</div>
-
+    </div>
 
 <!-- end Sell -->
 
